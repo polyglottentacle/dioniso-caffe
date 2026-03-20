@@ -227,7 +227,7 @@ export default function OlimpoOSV2() {
             <Sparkles size={16} className="text-white" />
           </div>
           <h1 className="text-lg font-black tracking-widest uppercase bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-purple-400">
-            Olimpo OS <span className="text-xs font-mono text-slate-500 tracking-normal ml-2">v2.GodMode</span>
+            Zeus Orchestrator <span className="text-xs font-mono text-slate-500 tracking-normal ml-2">v2.GodMode</span>
           </h1>
         </div>
 
